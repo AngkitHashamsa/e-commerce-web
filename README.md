@@ -1,3 +1,6 @@
+# live site on netlify 
+[e-commerce](https://e-commerce-react-website-comfy-store.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
